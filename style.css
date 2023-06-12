@@ -1,6 +1,6 @@
 *{
     padding: 0;
-    margin: 0;
+    margin: 0px;
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
@@ -435,6 +435,7 @@ a.active,a:hover{
     footer{
         position: static;
         margin: 0;
+    
     }
 }
 .footer-distributed{
@@ -444,7 +445,7 @@ a.active,a:hover{
     text-align: left;
     font: bold 16px sans-serif;
     padding: 50px 50px 60px 50px;
-    margin-top: 80px;
+    margin-top: 0px;
 }
 .footer-distributed .footer-left, .footer-distributed .footer-center, .footer-distributed .footer-right{
     display: inline-block;
